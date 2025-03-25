@@ -21,7 +21,7 @@ Experience the live application: [CollabBoard Demo](https://collab-board1.vercel
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/admiralpunk/CollabBoard.git
+   git clone https://github.com/tusharp7/CollabBoard-.git
    cd CollabBoard
    ```
 
